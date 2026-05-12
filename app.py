@@ -7,7 +7,7 @@ from utils.eye_contact import analyze_eye_contact
 from utils.audio_analysis import analyze_speech
 from utils.video_analysis import extract_frames, extract_audio
 from utils.video_scoring import analyze_video_frames
-from utils.whisper_analysis import analyze_transcription
+#from utils.whisper_analysis import analyze_transcription
 
 # ==========================================================
 # Page Configuration
